@@ -104,13 +104,13 @@
                        HeightRequest="70"
                        HorizontalOptions="CenterAndExpand"
                        Spacing="10">
-                <Button Text="10%"
+                <Button Text="10 %"
                         Clicked="Button_Clicked"
                         WidthRequest="70" />
-                <Button Text="15%"
+                <Button Text="15 %"
                         Clicked="Button_Clicked"
                         WidthRequest="70" />
-                <Button Text="25%"
+                <Button Text="25 %"
                         Clicked="Button_Clicked"
                         WidthRequest="70" />
             </HorizontalStackLayout>
